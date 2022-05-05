@@ -18,6 +18,6 @@ router.use('/', htmlRoutes);
 
 
 
-router.listen(3001, () => {
+router.listen(PORT, () => {
     console.log(`API server now on port ${PORT}!`);
 })
