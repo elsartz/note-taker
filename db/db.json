@@ -1,27 +1,7 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text",
-    "id": 0
-  },
-  {
     "title": "new",
-    "text": "text",
-    "id": 1
-  },
-  {
-    "title": "next",
-    "text": "true",
-    "id": 2
-  },
-  {
-    "title": "4th",
-    "text": "4th text",
-    "id": 3
-  },
-  {
-    "title": "5th",
-    "text": "5th text",
-    "id": 4
+    "text": "note",
+    "id": 0
   }
 ]
