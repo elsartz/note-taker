@@ -1,4 +1,4 @@
-![badge](https://img.shields.io/badge/license-mit-green)
+![badge](https://img.shields.io/badge/license-isc-green)
   # Take a Note!
   
   ## An app for write and save notes.
@@ -23,7 +23,7 @@
     Vardis Sartzetakis
   
   # License
-  Follow the link for more info about the license [mit](https://choosealicense.com/licenses/mit)
+  Follow the link for more info about the license [ISC](https://choosealicense.com/licenses/isc/)
 
   # Tests
     Take a look of the screenshoots
