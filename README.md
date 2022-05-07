@@ -1,9 +1,10 @@
 ![badge](https://img.shields.io/badge/license-isc-green)
-  # Take a Note!
+  # Take a Note! 📓
   
   ## An app for write and save notes.
   
-  > This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+  > This application is like a pocket notebook that can save and retrieve note data from the cloud.
+  > Of course from any or your devices.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -14,7 +15,10 @@
   - [Questions](#questions)
 
   # Installation
-    npm,express,heroku
+   I had to use Node.js and install from the npm the module ```express```, 
+   plus an installation of *Heroku* is required if you want to deploy your own notebook.
+   If not then you can navigate to this page ➡️ [live page](https://shrouded-retreat-68338.herokuapp.com) 
+   ...and make a bookmark or install it from your Brower. 
 
   # Usage
     This application will use an Express.js back end and will save and retrieve note data from a JSON file.
