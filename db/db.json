@@ -1,23 +1,27 @@
-{
-  "notes": [
-    {
-      "title": "Test Title",
-      "text": "Test text"
-    },
-    {
-      "title": "Test Title4",
-      "text": "Test text_2",
-      "id": "1"
-    },
-    {
-      "title": "Test Title4",
-      "text": "Test text_2",
-      "id": "2"
-    },
-    {
-      "title": "new",
-      "text": "new test",
-      "id": "3"
-    }
-  ]
-}
+[
+  {
+    "title": "Test Title",
+    "text": "Test text",
+    "id": 0
+  },
+  {
+    "title": "new",
+    "text": "text",
+    "id": 1
+  },
+  {
+    "title": "next",
+    "text": "true",
+    "id": 2
+  },
+  {
+    "title": "4th",
+    "text": "4th text",
+    "id": 3
+  },
+  {
+    "title": "5th",
+    "text": "5th text",
+    "id": 4
+  }
+]
