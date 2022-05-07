@@ -27,6 +27,9 @@
 
   # Tests
     Take a look of the screenshoots
+   [index.html](https://github.com/elsartz/note-taker/blob/main/images/index%20page.png)
+   [note.html](https://github.com/elsartz/note-taker/blob/main/images/note%20page.png)
+   [no notes](https://github.com/elsartz/note-taker/blob/main/images/not%20a%20note.png)
 
   # Questions
   If you have any questions, please contact me at [email](mailto:elsartz@gmail.com).
